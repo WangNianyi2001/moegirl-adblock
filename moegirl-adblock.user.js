@@ -1,10 +1,12 @@
 // ==UserScript==
 // @name         萌娘百科广告屏蔽
-// @version      v0.1.0-20260612
+// @version      v0.1.1-20260612
 // @description  屏蔽萌娘百科里动态加载的广告
 // @author       Nianyi Wang
 // @match        https://zh.moegirl.org.cn/*
 // @run-at       document-idle
+// @updateURL   https://github.com/WangNianyi2001/moegirl-adblock/raw/refs/heads/master/moegirl-adblock.user.js
+// @downloadURL   https://github.com/WangNianyi2001/moegirl-adblock/raw/refs/heads/master/moegirl-adblock.user.js
 // ==/UserScript==
 
 (function() {
